@@ -1,0 +1,203 @@
+<background>
+  <starttime>
+    <year>2018</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+<!-- 0 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-14.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-14.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-15.jpeg</to>
+</transition>
+
+<!-- 1:30 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-15.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-15.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-16.jpeg</to>
+</transition>
+
+<!-- 3 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-16.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-16.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-02.jpeg</to>
+</transition>
+
+<!-- 4:30 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-02.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-02.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-03.jpeg</to>
+</transition>
+
+<!-- 6 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-03.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-03.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-04.jpeg</to>
+</transition>
+
+<!-- 7:30 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-04.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-04.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-05.jpeg</to>
+</transition>
+
+<!-- 9 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-05.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-05.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-06.jpeg</to>
+</transition>
+
+<!-- 10:30 AM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-06.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-06.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-07.jpeg</to>
+</transition>
+
+<!-- Noon -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-07.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-07.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-08.jpeg</to>
+</transition>
+
+<!-- 1:30 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-08.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-08.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-09.jpeg</to>
+</transition>
+
+<!-- 3 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-09.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-09.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-10.jpeg</to>
+</transition>
+
+<!-- 4:30 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-10.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-10.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-11.jpeg</to>
+</transition>
+
+<!-- 6 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-11.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-11.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-01.jpeg</to>
+</transition>
+
+<!-- 7:30 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-01.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-01.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-12.jpeg</to>
+</transition>
+
+<!-- 9 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-12.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-12.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-13.jpeg</to>
+</transition>
+
+<!-- 10:30 PM -->
+<static>
+<duration>1800.0</duration>
+<file>/usr/share/backgrounds/mojave/mojave_dynamic-13.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/mojave/mojave_dynamic-13.jpeg</from>
+<to>/usr/share/backgrounds/mojave/mojave_dynamic-14.jpeg</to>
+</transition>
+
+</background>

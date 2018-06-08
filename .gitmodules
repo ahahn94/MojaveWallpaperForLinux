@@ -1,0 +1,3 @@
+[submodule "mojave-dynamic-heic"]
+	path = mojave-dynamic-heic
+	url = https://github.com/xtai/mojave-dynamic-heic.git
